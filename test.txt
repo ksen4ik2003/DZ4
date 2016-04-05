@@ -1,0 +1,49 @@
+7
+Kutuzovskiy prospekt
+2/1
+Mordvinov A.G.
+1957
+gostinitsa
+34
+
+Prospekt Vernadskogo
+21
+Mordvinov A.G.
+1950
+gostinitsa
+25
+
+Ulitsa Dibenko
+38 k.1
+Popov A.A.
+2010
+jiloj
+40
+
+Moskva-city
+13
+Choban S.
+2008
+ofis
+95
+
+Leninskie gory
+1
+Rudnev L.V.
+1953
+obschestvenniy
+34
+
+Sushevskiy Val
+33
+Melnicov K.S.
+1934
+promischlenniy
+5
+
+Chapaevskiy pereulok
+35
+Trofimov A.
+2005
+jiloj
+57
